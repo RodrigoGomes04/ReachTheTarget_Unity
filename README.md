@@ -1,26 +1,26 @@
 # Reach the Target
 
-## Engine
+## Engine(s)
 Godot 4 .NET / Unity
 
-## Objetivo
-Controlar o jogador e alcançar todos os objetivos.
+## Objective
+Control the player and Reach the Target.
 
-## Controlos
-WASD ou setas.
+## Controls
+WASD or arrow keys.
 
-## Funcionalidades base
-- Movimento
-- Colisão
+## Basic Funcionality
+- Movement
+- Collisions
 - Targets
 - Feedback
 
-## Melhorias implementadas
-- Target em movimento
-- Obstáculos em movimento
-- Colecionáveis à parte do target
-- Sistema de contagem de pontos (score) e múltiplos targets.
-- Níveis
+## Extra Implementations
+- Moving Target
+- Moving Obstacles
+- Score and Target counting systems
+- Collectibles
+- Levels
   
-## Autor
+## Author
 Rodrigo Rodrigues Gomes
